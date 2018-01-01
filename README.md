@@ -1,7 +1,7 @@
 # perf-npm5-vs-yarn
 > A performance test project for npm@5.x vs yarn.
 
-To use `Npm@5.x` or `Yarn`? Maybe you can get your answer from this project.
+To use `npm@5.x` or `yarn`? Maybe you can get your answer from this project.
 
 ## Usage
 First of all, you should install `npm` and `yarn` globally.
@@ -29,7 +29,7 @@ We do the comparison in 8 scenarios, the result with green font in every scenari
 You can modify the test registry in `package.json`, filed `perfConfig.registry`. Default is `https://registry.npm.taobao.org`.
 
 ## Test packages
-You can modify the test packages in `package.json`. Default is a series of packages initiallize by [vue-cli](https://www.npmjs.com/package/vue-cli).
+You can modify the test packages in `package.json`. Default is a series of packages initiallized by [vue-cli](https://www.npmjs.com/package/vue-cli).
 
 ## How does it work
 It use Node.js internal module `child_process` to run command to control the whole process. Every command is executed one by one with `Promise`.
