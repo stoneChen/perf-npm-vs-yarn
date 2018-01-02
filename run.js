@@ -1,4 +1,6 @@
 const os = require('os')
+
+require('colors')
 const Table = require('cli-table')
 const npm = require('./npm')
 const yarn = require('./yarn')

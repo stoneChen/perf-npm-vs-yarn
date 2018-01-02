@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "start": "node run.js"
+    "start": "NODE_PATH=$(npm config get prefix -g)/lib/node_modules node run.js"
   },
   "perfConfig": {
     "registry": "https://registry.npm.taobao.org"

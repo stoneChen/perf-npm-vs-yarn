@@ -15,6 +15,7 @@ Then run the performance test:
 ```
 npm start
 ```
+The start script will set `NODE_PATH` environment variable to require global mobule.
 
 It will finally print a result table like this:
 

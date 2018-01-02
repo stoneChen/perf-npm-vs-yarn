@@ -1,5 +1,3 @@
-// installed globally
-require('colors')
 const { runScript, log, scenarios, registry } = require('./utils')
 
 exports.removeCache = function() {
