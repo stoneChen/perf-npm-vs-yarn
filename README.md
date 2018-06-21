@@ -1,7 +1,7 @@
-# perf-npm5-vs-yarn
-> A performance test project for npm@5.x vs yarn.
+# perf-npm-vs-yarn
+> A performance test project for npm vs yarn.
 
-To use `npm@5.x` or `yarn`? Maybe you can get your answer from this project.
+To use `npm`(especially 5.x/6.x) or `yarn`? Maybe you can get your answer from this project.
 
 ## Usage
 First of all, you should install `npm` and `yarn` globally.

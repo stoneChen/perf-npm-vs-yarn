@@ -15,7 +15,7 @@ const totalTimeResults = []
 
 const ths = [
   'scenarios'.yellow,
-  'npm5(s)'.yellow,
+  'npm(s)'.yellow,
   'yarn(s)'.yellow,
 ]
 
