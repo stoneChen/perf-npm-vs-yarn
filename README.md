@@ -19,7 +19,7 @@ The start script will set `NODE_PATH` environment variable to require global mob
 
 It will finally print a result table like this:
 
-![](./perf-result.png)
+![](./perf-result-screenshot.png)
 
 Note: The result may be different in different environments.
 
